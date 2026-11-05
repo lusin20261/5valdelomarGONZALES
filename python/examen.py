@@ -1,0 +1,5 @@
+a = input("¿que habran hecho en mi casa?")
+b = input("¿cuanto falata para navidad")          
+c = input("de que te disfrasaste?")
+d = input("como vas")
+f = input("como te la pasate vestido de dinosaurio?")
